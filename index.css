@@ -1,0 +1,82 @@
+/* .header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.navItems > ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.navItems > ul > li{
+    padding: 10px;
+}
+
+.rescards{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 200px;
+    height: 20rem;
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: 5px;
+}
+
+.card:hover {
+    cursor: pointer;
+    border: 1px solid black;
+}
+.cardImage{
+    width: 100%;
+    height: 100px;
+}
+
+.search{
+    padding: 10px;
+}
+
+.shimmerContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shimmerCard { 
+    width: 200px;
+    height: 300px;
+    background-color:  beige;
+    margin: 1rem;
+}
+
+.login{
+    margin-right: 1rem;
+}
+
+.search{
+    display: flex;
+}
+
+.searchButton{
+    margin-left: 1rem;
+    padding: 0.5rem;
+}
+
+.filter {
+    display: flex;
+}
+
+.filter-btn {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
